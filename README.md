@@ -1,7 +1,7 @@
 # Ex02 Django ORM Web Application
-## Date: 09.04.2025
-## Name: Eshwer M
-## Reg No: 212224040086
+## Date : 09.04.2025
+## Name : Eshwer M
+## Reg No : 212224040086
 ## AIM
 To develop a Django application to store and retrieve data from Movies Database using Object Relational Mapping(ORM).
 
